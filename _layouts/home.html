@@ -1,0 +1,26 @@
+---
+layout: compress
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="home-page">
+    {% include browser-upgrade.html %}
+    <main class="home-page__main" role="main">
+      <article class="home-page__content" itemscope itemtype="http://schema.org/Person">
+        {{ content }}
+      </article>
+    </main>
+    <div class="home-page__footer">
+      <footer class="home-footer">
+        <p class="home-footer__template"><a href="https://github.com/WD7ang/WowPage" target="_blank" rel="noopener">Website Template</a></p>
+        <p class="home-footer__copyright">&copy; {{ site.name | default: site.title }} | Last updated: {{ site.time | date: "%B, %Y" }}</p>
+      </footer>
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>
