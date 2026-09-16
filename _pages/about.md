@@ -35,7 +35,7 @@ Education
 
 <ul class="education-list">
   <li>
-    <strong>Ph.D. in Computer Science</strong> @ <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener">SUSTech</a> & <a href="https://www.sii.edu.cn/" target="_blank" rel="noopener">SII</a>, 2024–Present<br>
+    <strong>Ph.D. in Computer Science</strong> @ <a href="https://www.sii.edu.cn/" target="_blank" rel="noopener">SII</a> & <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener">SUSTech</a>, 2024–Present<br>
     <span class="education-advisor">Advisors: <a href="https://yanweifu.github.io/" target="_blank" rel="noopener">Prof. Yanwei Fu</a> and <a href="https://faculty.sustech.edu.cn/fengzheng/en/" target="_blank" rel="noopener">Prof. Feng Zheng</a></span>
   </li>
   <li>
