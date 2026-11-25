@@ -52,6 +52,7 @@ News
 
 <div class="news-box">
   <ul class="news-list">
+    <li><span class="news-date"><em>2026.11</em></span> 🚀 We released <a href="https://arxiv.org/pdf/2611.30254" target="_blank" rel="noopener"><strong>Innata-0</strong></a>, a native embodied world system.</li>
     <li><span class="news-date"><em>2026.07</em></span> 🎉 One paper, <a href="https://arxiv.org/abs/2511.12977" target="_blank" rel="noopener">ArtiWorld</a>, is accepted to <a href="https://acmmm2026.org/" target="_blank" rel="noopener">ACM MM 2026</a>.</li>
     <li><span class="news-date"><em>2026.04</em></span> 🎉 One paper, <a href="https://lan555.github.io/stable/" target="_blank" rel="noopener">STABLE</a>, is accepted to <a href="https://icml.cc/Conferences/2026" target="_blank" rel="noopener">ICML 2026</a>.</li>
     <li><span class="news-date"><em>2025.09</em></span> 🎉 Two papers, <a href="https://mesatask.github.io/" target="_blank" rel="noopener"><strong>MesaTask</strong></a> and <a href="https://optiscene.github.io/" target="_blank" rel="noopener">OptiScene</a>, are accepted to <a href="https://neurips.cc/Conferences/2025" target="_blank" rel="noopener">NeurIPS 2025</a>. MesaTask is selected as a <strong>Spotlight (Top 2%)</strong>.</li>
@@ -64,6 +65,23 @@ Publications
 (* denotes equal contribution)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
+
+<div class="publication-card" data-category="all">
+  <div class="publication-card__inner">
+    <div class="pub-media-rotator">
+      <img src="/images/innata0.jpg" alt="Innata-0 native embodied world system">
+    </div>
+    <div class="publication-card__content">
+      <strong>Innata-0: A Native Embodied World System with Model-Agent Co-Design</strong><br>
+      <i class="publication-authors">Innata Team</i><br>
+      <i class="publication-venue">Technical Report</i>
+      <div class="publication-links">
+        <a href="https://baai-eai.github.io/innata-0/" target="_blank" rel="noopener"><em>[project]</em></a>
+        <a href="https://arxiv.org/pdf/2611.30254" target="_blank" rel="noopener"><em>[paper]</em></a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="publication-card" data-category="all">
   <div class="publication-card__inner">
